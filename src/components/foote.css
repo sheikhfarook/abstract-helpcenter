@@ -1,0 +1,41 @@
+.flex{
+    display: flex;
+  background-color: black;
+  width:100%;
+  color:white;
+}
+.flex > div{
+    margin: 1% ;
+    margin-left: 6%;
+    /* margin:2rem 0 0 6%; */
+
+    
+}
+.a-style{
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+   text-decoration:none ;
+   /* font-family:'GT America' ; */
+
+}
+.a-style:hover{
+    text-decoration: underline;
+}
+
+.last{
+    font-size: 20px;
+    margin-top: 11rem;
+    font-weight: 600;
+}
+.one-side{
+    padding-left: 5%
+}
+.w2{
+   padding-left:100px ;
+    padding-top: 4%;
+}
+.a-style:hover{
+    text-decoration: underline;
+    
+}
